@@ -1,0 +1,238 @@
+export const states = [
+  {
+    ST_ID: 1,
+    ST_ABREVIATION: "ABI",
+    ST_NAME: "ABIA",
+    REGION: "South-East",
+  },
+  {
+    ST_ID: 2,
+    ST_ABREVIATION: "ADA",
+    ST_NAME: "ADAMAWA",
+    REGION: "North-East",
+  },
+  {
+    ST_ID: 3,
+    ST_ABREVIATION: "AKI",
+    ST_NAME: "AKWA IBOM",
+    REGION: "South-South",
+  },
+  {
+    ST_ID: 4,
+    ST_ABREVIATION: "ANA",
+    ST_NAME: "ANAMBRA",
+    REGION: "South-East",
+  },
+  {
+    ST_ID: 5,
+    ST_ABREVIATION: "BAU",
+    ST_NAME: "BAUCHI",
+    REGION: "North-East",
+  },
+  {
+    ST_ID: 6,
+    ST_ABREVIATION: "BAY",
+    ST_NAME: "BAYELSA",
+    REGION: "South-South",
+  },
+  {
+    ST_ID: 7,
+    ST_ABREVIATION: "BEN",
+    ST_NAME: "BENUE",
+    REGION: "North-Central",
+  },
+  {
+    ST_ID: 8,
+    ST_ABREVIATION: "BOR",
+    ST_NAME: "BORNO",
+    REGION: "North-East",
+  },
+  {
+    ST_ID: 9,
+    ST_ABREVIATION: "CRS",
+    ST_NAME: "CROSS RIVER",
+    REGION: "South-South",
+  },
+  {
+    ST_ID: 10,
+    ST_ABREVIATION: "DEL",
+    ST_NAME: "DELTA",
+    REGION: "South-South",
+  },
+  {
+    ST_ID: 11,
+    ST_ABREVIATION: "EBO",
+    ST_NAME: "EBONYI",
+    REGION: "South-East",
+  },
+  {
+    ST_ID: 12,
+    ST_ABREVIATION: "EDO",
+    ST_NAME: "EDO",
+    REGION: "South-South",
+  },
+  {
+    ST_ID: 13,
+    ST_ABREVIATION: "EKI",
+    ST_NAME: "EKITI",
+    REGION: "South-West",
+  },
+  {
+    ST_ID: 14,
+    ST_ABREVIATION: "ENU",
+    ST_NAME: "ENUGU",
+    REGION: "South-East",
+  },
+  {
+    ST_ID: 15,
+    ST_ABREVIATION: "GOM",
+    ST_NAME: "GOMBE",
+    REGION: "North-East",
+  },
+  {
+    ST_ID: 16,
+    ST_ABREVIATION: "IMO",
+    ST_NAME: "IMO",
+    REGION: "South-East",
+  },
+  {
+    ST_ID: 17,
+    ST_ABREVIATION: "JIG",
+    ST_NAME: "JIGAWA",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 18,
+    ST_ABREVIATION: "KAD",
+    ST_NAME: "KADUNA",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 19,
+    ST_ABREVIATION: "KAN",
+    ST_NAME: "KANO",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 20,
+    ST_ABREVIATION: "KAT",
+    ST_NAME: "KATSINA",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 21,
+    ST_ABREVIATION: "KEB",
+    ST_NAME: "KEBBI",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 22,
+    ST_ABREVIATION: "KOG",
+    ST_NAME: "KOGI",
+    REGION: "North-Central",
+  },
+  {
+    ST_ID: 23,
+    ST_ABREVIATION: "KWA",
+    ST_NAME: "KWARA",
+    REGION: "North-Central",
+  },
+  {
+    ST_ID: 24,
+    ST_ABREVIATION: "LAG",
+    ST_NAME: "LAGOS",
+    REGION: "South-West",
+  },
+  {
+    ST_ID: 25,
+    ST_ABREVIATION: "NAS",
+    ST_NAME: "NASARAWA",
+    REGION: "North-Central",
+  },
+  {
+    ST_ID: 26,
+    ST_ABREVIATION: "NIG",
+    ST_NAME: "NIGER",
+    REGION: "North-Central",
+  },
+  {
+    ST_ID: 27,
+    ST_ABREVIATION: "OGU",
+    ST_NAME: "OGUN",
+    REGION: "South-West",
+  },
+  {
+    ST_ID: 28,
+    ST_ABREVIATION: "OND",
+    ST_NAME: "ONDO",
+    REGION: "South-West",
+  },
+  {
+    ST_ID: 29,
+    ST_ABREVIATION: "OSU",
+    ST_NAME: "OSUN",
+    REGION: "South-West",
+  },
+  {
+    ST_ID: 30,
+    ST_ABREVIATION: "OYO",
+    ST_NAME: "OYO",
+    REGION: "South-West",
+  },
+  {
+    ST_ID: 31,
+    ST_ABREVIATION: "PLA",
+    ST_NAME: "PLATEAU",
+    REGION: "North-Central",
+  },
+  {
+    ST_ID: 32,
+    ST_ABREVIATION: "RIV",
+    ST_NAME: "RIVERS",
+    REGION: "South-South",
+  },
+  {
+    ST_ID: 33,
+    ST_ABREVIATION: "SOK",
+    ST_NAME: "SOKOTO",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 34,
+    ST_ABREVIATION: "TAR",
+    ST_NAME: "TARABA",
+    REGION: "North-East",
+  },
+  {
+    ST_ID: 35,
+    ST_ABREVIATION: "YOB",
+    ST_NAME: "YOBE",
+    REGION: "North-East",
+  },
+  {
+    ST_ID: 36,
+    ST_ABREVIATION: "ZAM",
+    ST_NAME: "ZAMFARA",
+    REGION: "North-West",
+  },
+  {
+    ST_ID: 37,
+    ST_ABREVIATION: "FCT",
+    ST_NAME: "FCT",
+    REGION: "North-Central",
+  },
+];
+
+export const ranks = [
+  //"Provost",
+  "LECTURER",
+  "REGISTRAR",
+  "ADMIN OFFICER",
+  "ADMISSIONS OFFICER",
+  "CLERK",
+  "ICT OFFICER",
+].sort();
+
+export const titles = ["Prof.", "Dr.", "Mr.", "Mrs.", "Miss."];
+
+export const genders = ["Male", "Female"];

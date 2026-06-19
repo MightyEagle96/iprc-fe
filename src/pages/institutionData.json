@@ -1,0 +1,2234 @@
+[
+  {
+    "INID": 5103,
+    "INABV": "FCE-ABEO",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, ABEOKUTA, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5104,
+    "INABV": "FCE-AMUFU",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, EHA-AMUFU, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5106,
+    "INABV": "FCE-KATSINA",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, KATSINA, KATSINA STATE",
+    "InSt": 20,
+    "AFFL_ST_ID": 20,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5108,
+    "INABV": "FCE-OBUDU",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, OBUDU, CROSS RIVER STATE",
+    "InSt": 9,
+    "AFFL_ST_ID": 9,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5109,
+    "INABV": "FCE-OKENE",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, OKENE, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5111,
+    "INABV": "FCS-OYO",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (SPECIAL), OYO, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5112,
+    "INABV": "FCE-YOLA",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, YOLA, ADAMAWA STATE",
+    "InSt": 2,
+    "AFFL_ST_ID": 2,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5114,
+    "INABV": "FT-AKOKA",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), AKOKA, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5115,
+    "INABV": "FT-ASABA",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), ASABA, DELTA STATE",
+    "InSt": 10,
+    "AFFL_ST_ID": 10,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5116,
+    "INABV": "FT-BICHI",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), BICHI, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5117,
+    "INABV": "FT-GOMBE",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), GOMBE, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5118,
+    "INABV": "FT-GUSAU",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.) (FEMALE ONLY), GUSAU, ZAMFARA STATE",
+    "InSt": 36,
+    "AFFL_ST_ID": 36,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5119,
+    "INABV": "FT-OMOKU",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), OMOKU, RIVERS STATE",
+    "InSt": 32,
+    "AFFL_ST_ID": 32,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5120,
+    "INABV": "FT-POTIS",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), POTISKUM, YOBE STATE",
+    "InSt": 35,
+    "AFFL_ST_ID": 35,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5121,
+    "INABV": "FT-UMUNZE",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECH.), UMUNZE, ANAMBRA STATE",
+    "InSt": 4,
+    "AFFL_ST_ID": 4,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5122,
+    "INABV": "NTI-KAD",
+    "INName": "NATIONAL TEACHERS INSTITUTE, KADUNA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5123,
+    "INABV": "NASE",
+    "INName": "NIGERIAN ARMY COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5124,
+    "INABV": "NINL",
+    "INName": "NATIONAL INSTITUTE FOR NIGERIAN LANGUAGES, ABA, ABIA STATE",
+    "InSt": 1,
+    "AFFL_ST_ID": 1,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5125,
+    "INABV": "FCE-SOKOTO",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, GIDAN MADI, TANGAZA, SOKOTO STATE",
+    "InSt": 33,
+    "AFFL_ST_ID": 33,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5126,
+    "INABV": "FCE-JAMA'ARE",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, JAMA'ARE, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5127,
+    "INABV": "FCE-BENUE",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, ODUGBO, APA, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5128,
+    "INABV": "FCE-EBONYI",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, ISU, ONICHA, EBONYI STATE",
+    "InSt": 11,
+    "AFFL_ST_ID": 11,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5129,
+    "INABV": "FCE-IWO",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, IWO, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5130,
+    "INABV": "FCE-EDO",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL), EKIADOLOR, OVIA NORTH, EDO STATE",
+    "InSt": 12,
+    "AFFL_ST_ID": 12,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5131,
+    "INABV": "FCE-IDIDEP",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, IDIDEP IBIONO, AKWA IBOM STATE",
+    "InSt": 3,
+    "AFFL_ST_ID": 3,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5132,
+    "INABV": "FCE-ILAWE",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, ILAWE EKITI, EKITI STATE",
+    "InSt": 13,
+    "AFFL_ST_ID": "",
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5133,
+    "INABV": "FCET-KEANA",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL), KEANA, NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5134,
+    "INABV": "FCE-GWOZA",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, GWOZA, BORNO STATE",
+    "InSt": 8,
+    "AFFL_ST_ID": 8,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5135,
+    "INABV": "FCE-OFEME",
+    "INName": "FEDERAL COLLEGE OF EDUCATION, OFEME - OHUHU, ABIA STATE",
+    "InSt": 1,
+    "AFFL_ST_ID": 1,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5252,
+    "INABV": "RUFAI-COL",
+    "INName": "A.D. RUFAI COLLEGE OF EDU. FOR LEGAL AND ISLAMIC STUDIES, MISAU, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5207,
+    "INABV": "AROCHUKWU",
+    "INName": "ABIA STATE COLLEGE OF EDUCATION (TECHNICAL), ABIA STATE",
+    "InSt": 1,
+    "AFFL_ST_ID": 1,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5206,
+    "INABV": "ARGUNGU",
+    "INName": "ADAMU AUGIE COLLEGE OF EDUCATION, ARGUNGU, KEBBI STATE",
+    "InSt": 21,
+    "AFFL_ST_ID": 21,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5250,
+    "INABV": "ATB-COE",
+    "INName": "ADAMU TAFAWA BALEWA COLLEGE OF EDUCATION, KANGERE, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5203,
+    "INABV": "AKSCOE",
+    "INName": "AKWA-IBOM STATE COLLEGE OF EDUCATION, AFAHA-NSIT, AKWA IBOM STATE",
+    "InSt": 3,
+    "AFFL_ST_ID": 3,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5260,
+    "INABV": "AK-COE",
+    "INName": "AMINU KANO COLLEGE OF EDUCATION, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5208,
+    "INABV": "ASCOEA",
+    "INName": "AMINU SALEH COLLEGE OF EDUCATION, AZARE, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5255,
+    "INABV": "IMSCOL",
+    "INName": "BENJAMIN UWAJUMOGU (STATE) COLLEGE OF EDUCATION, IHITTE UBOMA, IMO STATE",
+    "InSt": 16,
+    "AFFL_ST_ID": 16,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5253,
+    "INABV": "COET-DASS",
+    "INName": "COLLEGE OF EDUCATION (TECHNICAL), DASS, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5257,
+    "INABV": "COE-NGURU",
+    "INName": "COLLEGE OF EDUCATION AND LEGAL STUDIES, NGURU, YOBE STATE",
+    "InSt": 35,
+    "AFFL_ST_ID": 35,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5233,
+    "INABV": "LAFIAGI(T)",
+    "INName": "COLLEGE OF EDUCATION, (TECH), LAFIAGI, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5201,
+    "INABV": "AGBOR",
+    "INName": "COLLEGE OF EDUCATION, AGBOR, DELTA STATE",
+    "InSt": 10,
+    "AFFL_ST_ID": 10,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5204,
+    "INABV": "AKWANGA",
+    "INName": "COLLEGE OF EDUCATION, AKWANGA, NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5205,
+    "INABV": "ANKPA",
+    "INName": "COLLEGE OF EDUCATION, ANKPA, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5254,
+    "INABV": "COE-BILLIRI",
+    "INName": "COLLEGE OF EDUCATION, BILLIRI, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5212,
+    "INABV": "EKIADOLOR",
+    "INName": "COLLEGE OF EDUCATION, EKIADOLOR, EDO STATE",
+    "InSt": 12,
+    "AFFL_ST_ID": 12,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5216,
+    "INABV": "GINDIRI",
+    "INName": "COLLEGE OF EDUCATION, GINDIRI, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5219,
+    "INABV": "COE-HONG",
+    "INName": "COLLEGE OF EDUCATION, HONG, ADAMAWA STATE",
+    "InSt": 2,
+    "AFFL_ST_ID": 2,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5220,
+    "INABV": "IGUEBEN",
+    "INName": "COLLEGE OF EDUCATION, IGUEBEN, EDO STATE",
+    "InSt": 12,
+    "AFFL_ST_ID": 12,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5223,
+    "INABV": "COE-IKERE",
+    "INName": "COLLEGE OF EDUCATION, IKERE, EKITI STATE",
+    "InSt": 13,
+    "AFFL_ST_ID": 13,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5230,
+    "INABV": "KAT-ALA",
+    "INName": "COLLEGE OF EDUCATION, KATSINA-ALA, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5249,
+    "INABV": "COE-KURA",
+    "INName": "COLLEGE OF EDUCATION, KURA, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5235,
+    "INABV": "COE-MARU",
+    "INName": "COLLEGE OF EDUCATION, MARU, ZAMFARA STATE",
+    "InSt": 36,
+    "AFFL_ST_ID": 36,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5236,
+    "INABV": "COE-MINNA",
+    "INName": "COLLEGE OF EDUCATION, MINNA, NIGER STATE",
+    "InSt": 26,
+    "AFFL_ST_ID": 26,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5241,
+    "INABV": "COE-OJU",
+    "INName": "COLLEGE OF EDUCATION, OJU, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5242,
+    "INABV": "COE-ORO",
+    "INName": "COLLEGE OF EDUCATION, ORO, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5245,
+    "INABV": "COE-BIU",
+    "INName": "COLLEGE OF EDUCATION, WAKA-BIU, BORNO STATE",
+    "InSt": 8,
+    "AFFL_ST_ID": 8,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5246,
+    "INABV": "COE-WARRI",
+    "INName": "COLLEGE OF EDUCATION, WARRI, DELTA STATE",
+    "InSt": 10,
+    "AFFL_ST_ID": 10,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5247,
+    "INABV": "COE-ZING",
+    "INName": "COLLEGE OF EDUCATION, ZING, TARABA STATE",
+    "InSt": 34,
+    "AFFL_ST_ID": 34,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5202,
+    "INABV": "AKAMKPA",
+    "INName": "CROSS RIVER STATE COLLEGE OF EDUCATION, AKAMKPA, CROSS RIVER STATE",
+    "InSt": 9,
+    "AFFL_ST_ID": 9,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5239,
+    "INABV": "MOSOGAR",
+    "INName": "DELTA STATE COLLEGE OF PHYSICAL EDUCATION, MOSOGAR, DELTA STATE",
+    "InSt": 10,
+    "AFFL_ST_ID": 10,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5224,
+    "INABV": "IKWO",
+    "INName": "EBONYI STATE COLLEGE OF EDUCATION, IKWO, EBONYI STATE",
+    "InSt": 11,
+    "AFFL_ST_ID": 11,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5261,
+    "INABV": "COE-EDO",
+    "INName": "EDO STATE COLLEGE OF EDUCATION, EDO STATE",
+    "InSt": 12,
+    "AFFL_ST_ID": 12,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5213,
+    "INABV": "ESCE(T)",
+    "INName": "ENUGU STATE COLLEGE OF EDUCATION (TECHNICAL), ABAKALIKI RD, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5248,
+    "INABV": "COE-ZUBA",
+    "INName": "FCT COLLEGE OF EDUCATION, ZUBA, ABUJA, FCT",
+    "InSt": 37,
+    "AFFL_ST_ID": 37,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5262,
+    "INABV": "COE-NAFADA",
+    "INName": "GOMBE STATE COLLEGE OF EDUCATION AND LEGAL STUDIES, NAFADA, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5263,
+    "INABV": "IIT-ZARIA",
+    "INName": "INSTITUTE OF INFORMATION TECHNOLOGY, ZARIA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5210,
+    "INABV": "DUTSINMA",
+    "INName": "ISA KAITA COLLEGE OF EDUCATION, DUTSINMA, KATSINA STATE",
+    "InSt": 20,
+    "AFFL_ST_ID": 20,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5221,
+    "INABV": "JASPERBORO",
+    "INName": "ISAAC JASPER BORO COLLEGE OF EDUCATION, SAGBAMA, BAYELSA STATE",
+    "InSt": 6,
+    "AFFL_ST_ID": 6,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5228,
+    "INABV": "JIGCILS",
+    "INName": "JIGAWA STATE COLLEGE OF EDUCATION AND LEGAL STUDIES, RINGIM, JIGAWA STATE",
+    "InSt": 17,
+    "AFFL_ST_ID": 17,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5217,
+    "INABV": "GUMEL",
+    "INName": "JIGAWA STATE COLLEGE OF EDUCATION, GUMEL, JIGAWA STATE",
+    "InSt": 17,
+    "AFFL_ST_ID": 17,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5265,
+    "INABV": "JIGPOLY-NCE",
+    "INName": "JIGAWA STATE POLYTECHNIC, DUTSE (NCE)",
+    "InSt": 17,
+    "AFFL_ST_ID": 17,
+    "INTYP": 52,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5215,
+    "INABV": "GIDAN-WAYA",
+    "INName": "KADUNA STATE COLLEGE OF EDUCATION, GIDAN-WAYA, KAFANCHAN, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5234,
+    "INABV": "COE-MAID",
+    "INName": "KASHIM-IBRAHIM COLLEGE OF EDUCATION, MAIDUGURI, BORNO STATE",
+    "InSt": 8,
+    "AFFL_ST_ID": 8,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5267,
+    "INABV": "KSP-COE",
+    "INName": "KEBBI STATE POLYTECHNIC (NCE), DAKINGARI, KEBBI STATE",
+    "InSt": 21,
+    "AFFL_ST_ID": 21,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5232,
+    "INABV": "COET-KABBA",
+    "INName": "KOGI STATE COLLEGE OF EDUCATION (TECHNICAL), KABBA, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5227,
+    "INABV": "ILORIN_COL",
+    "INName": "KWARA STATE COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5238,
+    "INABV": "MOGOCLIS",
+    "INName": "MOHAMMED GONI COLLEGE OF LEGAL AND ISLAMIC STUDIES, MAIDUGURI, BORNO STATE",
+    "InSt": 8,
+    "AFFL_ST_ID": 8,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5240,
+    "INABV": "NOCOEN",
+    "INName": "NWAFOR ORIZU COLLEGE OF EDUCATION, NSUGBE, ANAMBRA STATE",
+    "InSt": 4,
+    "AFFL_ST_ID": 4,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5225,
+    "INABV": "OSCOE-ILA",
+    "INName": "OSUN STATE COLLEGE OF EDUCATION, ILA-ORANGUN, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5251,
+    "INABV": "LANLATECOE",
+    "INName": "OYO STATE COLLEGE OF EDUCATION, LANLATE, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5259,
+    "INABV": "KZ-COE",
+    "INName": "KAZAURE COLLEGE OF EDUCATION, KAZAURE, JIGAWA STATE",
+    "InSt": 17,
+    "AFFL_ST_ID": 17,
+    "INTYP": 52,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5229,
+    "INABV": "RIMI-COE",
+    "INName": "SAADATU RIMI COLLEGE OF EDUCATION, KUMBOTSO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5244,
+    "INABV": "SHAGARICOE",
+    "INName": "SHEHU SHAGARI COLLEGE OF EDUCATION, SOKOTO, SOKOTO STATE",
+    "InSt": 33,
+    "AFFL_ST_ID": 33,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5264,
+    "INABV": "COE-BUKURU",
+    "INName": "TCNN COLLEGE OF EDUCATION, BUKURU,PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5266,
+    "INABV": "COE-ISEYIN",
+    "INName": "THE COLLEGE OF EDUCATION, ISEYIN, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5256,
+    "INABV": "ULI-COE",
+    "INName": "ULI COLLEGE OF EDUCATION, ULI, ANAMBRA STATE",
+    "InSt": 4,
+    "AFFL_ST_ID": 4,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5209,
+    "INABV": "COE-BAMA",
+    "INName": "UMAR IBN EI-KANEMI COLLEGE OF EDUC. SCIENCE AND TECH, BAMA, BORNO STATE",
+    "InSt": 8,
+    "AFFL_ST_ID": 8,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5214,
+    "INABV": "GASHUA",
+    "INName": "UMAR SULEIMAN COLLEGE OF EDUCATION, GASHUA, YOBE STATE",
+    "InSt": 35,
+    "AFFL_ST_ID": 35,
+    "INTYP": 52,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5301,
+    "INABV": "ACOE",
+    "INName": "ALHIKMA COLLEGE OF EDUCATION, ANKPA, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5302,
+    "INABV": "AICOEP",
+    "INName": "ARABIC AND ISLAMIC COLLEGE OF EDUCATION, POTISKUM, YOBE STATE",
+    "InSt": 35,
+    "AFFL_ST_ID": 35,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5303,
+    "INABV": "AKLEGAL",
+    "INName": "AMINU KANO COLLEGE OF ISLAMIC AND LEGAL STUDIES, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5304,
+    "INABV": "ANGEL",
+    "INName": "ANGEL CROWN COLLEGE OF EDUCATION, GIDAN-DAYA, ABUJA, FCT",
+    "InSt": 37,
+    "AFFL_ST_ID": 37,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5305,
+    "INABV": "ANSAR",
+    "INName": "ANSAR-UD-DEEN COLLEGE OF EDUCATION, ISOLO, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5306,
+    "INABV": "APA-COL",
+    "INName": "APA COLLEGE OF EDUCATION, AIDO GODO-OKPOGA, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5307,
+    "INABV": "ASSCOED",
+    "INName": "ASSANUSIYAH COLLEGE OF EDUCATION, IPETUMODU, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5308,
+    "INABV": "ATCOI",
+    "INName": "AFRICAN THINKERS COMMUNITY OF INQUIRY COLLEGE OF EDUCATION, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5309,
+    "INABV": "AWORI",
+    "INName": "AWORI DISTRICT COLLEGE OF EDUCATION, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5310,
+    "INABV": "KE-COE",
+    "INName": "KOGI EAST COLLEGE OF EDUCATION, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5311,
+    "INABV": "BELCOED",
+    "INName": "BEST LEGACY COLLEGE OF EDUCATION, OGBOMOSO, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5312,
+    "INABV": "BETHEL",
+    "INName": "BETHEL COLLEGE OF EDUCATION, IJARE, ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5313,
+    "INABV": "BIAIS",
+    "INName": "BAUCHI INSTITUTE FOR ARABIC AND ISLAMIC STUDIES, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5314,
+    "INABV": "CALVIN",
+    "INName": "CALVIN FOUNDATION COLLEGE OF EDUCATION, NAKA, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5315,
+    "INABV": "CITY",
+    "INName": "CITY COLLEGE OF EDUCATION, GARKI, ABUJA, FCT",
+    "InSt": 37,
+    "AFFL_ST_ID": 37,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5316,
+    "INABV": "COE-ERO",
+    "INName": "COLLEGE OF EDUCATION, ERO, AKURE, ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5317,
+    "INABV": "COEN",
+    "INName": "THE COLLEGE OF EDUCATION, NSUKKA, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5318,
+    "INABV": "COE-OFFA",
+    "INName": "COLLEGE OF EDUCATION, IRRA ROAD, ILEMONA, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5319,
+    "INABV": "CORNER",
+    "INName": "CORNERSTONE COLLEGE OF EDUCATION, LAGOS, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5320,
+    "INABV": "DELAR",
+    "INName": "DELAR COLLEGE OF EDUCATION, IBADAN, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5321,
+    "INABV": "EBENEZER",
+    "INName": "EBENEZER COLLEGE OF EDUCATION, EDDA, EBONYI STATE",
+    "InSt": 11,
+    "AFFL_ST_ID": 11,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5322,
+    "INABV": "ELDER-OYAMA",
+    "INName": "ELDER OYAMA MEMORIAL COLLEGE OF EDUCATION, OFAT, OBUBRA, CROSS RIVER STATE",
+    "InSt": 9,
+    "AFFL_ST_ID": 9,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5323,
+    "INABV": "GBOKO-COE",
+    "INName": "GBOKO COLLEGE OF EDUCATION, GBOKO, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5324,
+    "INABV": "HAVARD",
+    "INName": "HARVARD WILSON COLLEGE OF EDUCATION, ABA, ABIA STATE",
+    "InSt": 1,
+    "AFFL_ST_ID": 1,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5325,
+    "INABV": "HILL-COE",
+    "INName": "HILL COLLEGE OF EDUCATION, GWANJI, AKWANGA,  NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5326,
+    "INABV": "IECE",
+    "INName": "INSTITUTE OF ECUMENICAL EDUCATION, THINKER CORNER, ENUGU, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5327,
+    "INABV": "COE-IPERE",
+    "INName": "IPERE COLLEGE OF EDUCATION, AGYARAGU, NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5328,
+    "INABV": "JIBWIS",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, GOMBE, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5329,
+    "INABV": "KINSEY",
+    "INName": "KINSEY COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5330,
+    "INABV": "KWARARAFAC",
+    "INName": "KWARARAFA COLLEGE OF EDUCATION, OTUKPO, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5331,
+    "INABV": "LESSEL",
+    "INName": "LESSEL COLLEGE OF EDUCATION, LESSEL, USHONGO LGA, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5332,
+    "INABV": "LINKS-MORO",
+    "INName": "COLLEGE OF EDUCATION, FOREIGN LINKS CAMPUS MORO, IFE NORTH, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5334,
+    "INABV": "MUHYIDEEN",
+    "INName": "MUHYIDEEN COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5335,
+    "INABV": "MULCOED",
+    "INName": "MUFTAU’ LANIHUN COLLEGE OF EDUCATION, IBADAN-LAGOS EXP WAY,OREMEJI, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5336,
+    "INABV": "MURITADHA",
+    "INName": "MURITADHA COLLEGE OF EDUCATION, OLODO, IBADAN, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5337,
+    "INABV": "NANA-COE",
+    "INName": "NANA AISHAT MEMORIAL COLLEGE OF EDUCATION, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5339,
+    "INABV": "ONITCOE",
+    "INName": "ONIT COLLEGE OF EDUCATION, MBAUKWU, ANAMBRA STATE",
+    "InSt": 4,
+    "AFFL_ST_ID": 4,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5340,
+    "INABV": "OSISATEC",
+    "INName": "OUR SAVIOUR INSTITUTE OF SCIENCE & TECH. COLLEGE OF EDUCATION, OGUI, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5341,
+    "INABV": "PEACELAND",
+    "INName": "PEACELAND COLLEGE OF EDUCATION, ENUGU, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5342,
+    "INABV": "PIAGET",
+    "INName": "PIAGET COLLEGE OF EDUCATION, IBARA, ABEOKUTA, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5343,
+    "INABV": "ROYAL-CITY",
+    "INName": "ROYAL CITY COLLEGE OF EDUCATION, IYESI, OTTA, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5344,
+    "INABV": "TIM-COE",
+    "INName": "ST. AUGUSTINE COLLEGE OF EDUCATION (PROJECT TIME), YABA, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5345,
+    "INABV": "STEADYFLOW",
+    "INName": "STEADY FLOW COLLEGE OF EDUCATION, AKARABONG, IKOM, CROSS RIVER STATE",
+    "InSt": 9,
+    "AFFL_ST_ID": 9,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5346,
+    "INABV": "TACCOED",
+    "INName": "THE AFRICAN CHURCH COLLEGE OF EDUCATION, LAGOS, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5347,
+    "INABV": "TIJANI-COE",
+    "INName": "BAYO TIJANI COLLEGE OF EDUCATION, EGAN-IGANDO, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5348,
+    "INABV": "TOPMOST",
+    "INName": "TOPMOST COLLEGE OF EDUCATION, IPAJA, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5349,
+    "INABV": "UNITY-COE",
+    "INName": "UNITY COLLEGE OF EDUCATION, AUKPA-ADOKA, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5350,
+    "INABV": "YBUCOELS",
+    "INName": "YUSUF BALA USMAN COLLEGE OF EDUCATION AND LEGAL STUDIES, DAURA, KATSINA STATE",
+    "InSt": 20,
+    "AFFL_ST_ID": 20,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5351,
+    "INABV": "YEWA",
+    "INName": "YEWA CENTRAL COLLEGE OF EDUCATION, ABEOKUTA, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5352,
+    "INABV": "GCOE-JOS",
+    "INName": "GLOBAL COLLEGE OF EDUCATION, JOS, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5353,
+    "INABV": "ECWA-COE",
+    "INName": "ECWA COLLEGE OF EDUCATION, IGBAJA, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5358,
+    "INABV": "ECWA-JOS",
+    "INName": "ECWA COLLEGE OF EDUCATION, JOS, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5360,
+    "INABV": "CORONA",
+    "INName": "CORONA COLLEGE OF EDUCATION, ILUPEJU, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5361,
+    "INABV": "ASICOE-ZARIA",
+    "INName": "AMEER SHEHU IDRIS COLLEGE OF EDUCATION, ZARIA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5363,
+    "INABV": "PAN-AFRCOE",
+    "INName": "PAN AFRICAN COLLEGE OF EDUCATION, OFFA, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5364,
+    "INABV": "DA'AWA-COE",
+    "INName": "DA'AWAH COLLEGE OF EDUCATION, GAME VILLAGE, BAUCHI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5365,
+    "INABV": "FESTMED",
+    "INName": "FESTMED COLLEGE OF EDUCATION, AJOWA,ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5370,
+    "INABV": "HOPE-COE",
+    "INName": "HOPE AND ANCHOR COLLEGE OF EDUCATION, SULEJA, NIGER STATE",
+    "InSt": 26,
+    "AFFL_ST_ID": 26,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5371,
+    "INABV": "AL-IBADAN",
+    "INName": "AL-IBADAN COLLEGE OF EDUCATION, IBADAN, OYO STATE",
+    "InSt": 30,
+    "AFFL_ST_ID": 30,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5372,
+    "INABV": "UPLAND-COE",
+    "INName": "UPLAND COLLEGE OF EDUCATION, IPESI-IFIRA, AKOKO, ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5373,
+    "INABV": "EBIJE-COE",
+    "INName": "EMMANUEL EBIJE IKWUE COLLEGE OF EDUCATION, OTUKPO, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5374,
+    "INABV": "MCF-COE",
+    "INName": "MICHAEL AND CECILIA FOUNDATION COLLEGE OF EDUC. AGBRHA-OTOR,UGHELLI, DELTA STATE",
+    "InSt": 10,
+    "AFFL_ST_ID": 10,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5375,
+    "INABV": "SUNNAH-COE",
+    "INName": "SUNNAH COLLEGE OF EDUCATION, BAUCHI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5376,
+    "INABV": "OSWALD-COE",
+    "INName": "OSWALD WALLER COLLEGE OF EDUCATION, SHENDAM, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5377,
+    "INABV": "DIAMOND",
+    "INName": "DIAMOND COLLEGE OF EDUCATION, ABA, ABIA STATE",
+    "InSt": 1,
+    "AFFL_ST_ID": 1,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5378,
+    "INABV": "ELI-COE",
+    "INName": "ELIZABETH MEMORIAL COLLEGE OF EDUCATION, ODENIGBO, NSUKKA, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5379,
+    "INABV": "COE-ILORI",
+    "INName": "ILORI COLLEGE OF EDUCATION, EDE, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5380,
+    "INABV": "SARKIN-YAM",
+    "INName": "SARKIN YAMMA COMMUNITY COLLEGE OF EDUCATION, TILDEN FULANI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5381,
+    "INABV": "COE-KHATAB",
+    "INName": "UMAR BUN KHATAB COLLEGE OF EDUCATION, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5382,
+    "INABV": "ADESHINA",
+    "INName": "ADESHINA COLLEGE OF EDUCATION, SHARE, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5383,
+    "INABV": "CRESTFIELD",
+    "INName": "CREST FIELD COLLEGE OF EDUCATION, ERIN OSUN, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5384,
+    "INABV": "MOJE-COE",
+    "INName": "MOJE COLLEGE OF EDUCATION, ERIN-ILE, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5385,
+    "INABV": "SINAI-COE",
+    "INName": "SINAI COLLEGE OF EDUCATION AND ENTREPRENEURIAL STUDIES, GBOKO, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5386,
+    "INABV": "JIBWIS-BAU",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, JAMA'ARE, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5387,
+    "INABV": "LIFE-GATE",
+    "INName": "LIFE GATE COLLEGE OF EDUCATION, AFON, ASA, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5388,
+    "INABV": "PEACE-COE",
+    "INName": "PEACE COLLEGE OF EDUCATION, ENOKPOLI, KOGI  STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5389,
+    "INABV": "HAMZAINAB",
+    "INName": "HAMZAINAB COLLEGE OF EDUCATION, OSOGBO, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5390,
+    "INABV": "AGZ-BAJOGA",
+    "INName": "AGZ COLLEGE OF EDUCATION, BAJOGA, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5391,
+    "INABV": "PEACOCK",
+    "INName": "PEACOCK COLLEGE OF EDUCATION, JALINGO, TARABA STATE",
+    "InSt": 34,
+    "AFFL_ST_ID": 34,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5392,
+    "INABV": "HAMZAT-COE",
+    "INName": "IMAM HAMZAT COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5393,
+    "INABV": "METRO-COE",
+    "INName": "METRO COLLEGE OF EDUCATION, ADOGI, NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5394,
+    "INABV": "IMAM-SAIDU",
+    "INName": "IMAM SAIDU COLLEGE OF EDUCATION, FUNTUA, KATSINA STATE",
+    "InSt": 20,
+    "AFFL_ST_ID": 20,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5395,
+    "INABV": "COVENANT-COE",
+    "INName": "COVENANT COLLEGE OF EDUCATION, ABA, ABIA STATE",
+    "InSt": 1,
+    "AFFL_ST_ID": 1,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5396,
+    "INABV": "GS-COE",
+    "INName": "GOOD SHEPHERD COLLEGE OF EDUCATION, DANLEMO ALAKUKO, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5397,
+    "INABV": "NOSAKHARE",
+    "INName": "NOSAKHARE COLLEGE OF EDUCATION, BENIN CITY, EDO STATE",
+    "InSt": 12,
+    "AFFL_ST_ID": 12,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5398,
+    "INABV": "AMEENUDEEN",
+    "INName": "AMEENUDEEN COLLEGE OF EDUCATION, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5399,
+    "INABV": "JIBWIS-KEF",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, KEFFI, NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5401,
+    "INABV": "KADPOLY-ED",
+    "INName": "KADUNA POLYTECHNIC (NCE), KADUNA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5402,
+    "INABV": "WUFPOBK-ED",
+    "INName": "WAZIRI UMARU FEDERAL POLYTECHNIC (NCE), BIRNIN KEBBI, KEBBI STATE",
+    "InSt": 21,
+    "AFFL_ST_ID": 21,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5403,
+    "INABV": "ATAPOLY-ED",
+    "INName": "ABUBAKAR TATARI ALI POLYTECHNIC (NCE), BAUCHI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5404,
+    "INABV": "KATPOLY-ED",
+    "INName": "HASSAN USMAN KATSINA POLYTECHNIC (NCE), KATSINA, KATSINA STATE",
+    "InSt": 20,
+    "AFFL_ST_ID": 20,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5406,
+    "INABV": "NBPZ-ED",
+    "INName": "NUHU BAMALLI POLYTECHNIC (NCE), ZARIA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5407,
+    "INABV": "OSUNPO-ED",
+    "INName": "OSUN STATE POLYTECHNIC (NCE), IREE, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5408,
+    "INABV": "PLSPO-ED",
+    "INName": "PLATEAU STATE POLYTECHNIC (NCE), BARKIN-LADI, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5411,
+    "INABV": "KASCEPS",
+    "INName": "KANO STATE COLLEGE OF EDUCATION AND PRELIMINARY STUDIES, KANO,  KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5412,
+    "INABV": "ANISE",
+    "INName": "ANNUR INSTITUTE FOR ISLAMIC EDUC, KWALAJAWA, RANGAZA, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5413,
+    "INABV": "BIGA-COED",
+    "INName": "BIGA COLLEGE OF EDUCATION, ARKILLA, FEDERAL-LOW COST, NASARAWA, SOKOTO STATE",
+    "InSt": 33,
+    "AFFL_ST_ID": 33,
+    "INTYP": 54,
+    "Inst_Cat": "SC"
+  },
+  {
+    "INID": 5414,
+    "INABV": "KANPOLY-ED",
+    "INName": "KANO STATE POLYTECHNIC (NCE), KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 54,
+    "Inst_Cat": "NP"
+  },
+  {
+    "INID": 5701,
+    "INABV": "TCIS",
+    "INName": "TURATH COLLEGE OF ISLAMIC STUDIES, GORON DUTSE, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5702,
+    "INABV": "GRACE-COE",
+    "INName": "GRACE COLLEGE OF EDUCATION, OSHOGBO, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5703,
+    "INABV": "MEADOW",
+    "INName": "MEADOW HALL COLLEGE OF EDUCATION, ALMA BEACH ESTATE, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5704,
+    "INABV": "GARKUWA",
+    "INName": "ADAMU GARKUWA COLLEGE OF EDUCATION, TORO, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5705,
+    "INABV": "JIBWIS-POT",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, POTISKUM, YOBE STATE",
+    "InSt": 35,
+    "AFFL_ST_ID": 35,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5706,
+    "INABV": "BOGORO-COE",
+    "INName": "BOGORO COLLEGE OF EDUCATION, BOGORO, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5707,
+    "INABV": "ICE-KARU",
+    "INName": "INNOVATIVE COLLEGE OF EDUCATION, KARU, NASARAWA STATE",
+    "InSt": 25,
+    "AFFL_ST_ID": 25,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5708,
+    "INABV": "OLEKAMBA",
+    "INName": "OLEKAMBA COLLEGE OF EDUCATION, AFIN-AKURE, ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5709,
+    "INABV": "EMAMOR",
+    "INName": "EMAMOR COLLEGE OF EDUCATION, ABUA, RIVERS STATE",
+    "InSt": 32,
+    "AFFL_ST_ID": 32,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5710,
+    "INABV": "CLIMAX",
+    "INName": "CLIMAX COLLEGE OF EDUCATION, BAUCHI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5711,
+    "INABV": "COE-DUT",
+    "INName": "COLLEGE OF EDUCATION, DUTSEN-TANSHI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5712,
+    "INABV": "GPI-COE",
+    "INName": "GOD'S POWER INTERNATIONAL COLLEGE OF EDUCATION, ANYIGBA, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5713,
+    "INABV": "RAPHAT",
+    "INName": "RAPHAT COLLEGE OF EDUCATION, OBAAGUN, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5714,
+    "INABV": "ELISBEST",
+    "INName": "ELIBEST COLLEGE OF EDUCATION, AKURE, ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5715,
+    "INABV": "JIBWIS-JOS",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, JOS, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5716,
+    "INABV": "AL-FAJR",
+    "INName": "AL-FAJR COLLEGE OF EDUCATION, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5717,
+    "INABV": "TICOED",
+    "INName": "TIJJANI IBRAHIM COLLEGE OF EDUCATION, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5718,
+    "INABV": "DANYAYA",
+    "INName": "DANYAYA COLLEGE OF EDUCATION, NINGI, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5719,
+    "INABV": "MUS'AB",
+    "INName": "MUS'AB BN UMAIR COMMUNITY COLLEGE OF EDUCATION, BAJOGA, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5720,
+    "INABV": "OMAGA",
+    "INName": "OMAGA EJIGBO COLLEGE OF EDUCATION, DEKINA, KOGI STATE",
+    "InSt": 22,
+    "AFFL_ST_ID": 22,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5721,
+    "INABV": "HIS-GRACE",
+    "INName": "HIS GRACE INDEPENDENT COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5722,
+    "INABV": "ST.FRANCES",
+    "INName": "ST. FRANCES ASSISI COLLEGE OF EDUCATION, WUSASA - ZARIA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5723,
+    "INABV": "SACAS-COE",
+    "INName": "SACAS COLLEGE OF EDUCATION, KWALI, ABUJA, FCT",
+    "InSt": 37,
+    "AFFL_ST_ID": 37,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5724,
+    "INABV": "ST. PAUL'S",
+    "INName": "ST. PAUL'S COLLEGE OF EDUCATION, NNEWI, ANAMBRA STATE",
+    "InSt": 4,
+    "AFFL_ST_ID": 4,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5725,
+    "INABV": "CHRIST-COE",
+    "INName": "CHRISTIAN COLLEGE OF EDUCATION, GOMBE, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5726,
+    "INABV": "JIBWIS-ZURU",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, ZURU, KEBBI STATE",
+    "InSt": 21,
+    "AFFL_ST_ID": 21,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5727,
+    "INABV": "AHLUS-COE",
+    "INName": "AHLUS-SUFFAH COLLEGE OF EDUCATION, KADUNA, KADUNA STATE",
+    "InSt": 18,
+    "AFFL_ST_ID": 18,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5728,
+    "INABV": "AL-UMMAH",
+    "INName": "AL-UMMAH COLLEGE OF EDUCATION, IWO, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5729,
+    "INABV": "ROYAL-COE",
+    "INName": "ROYAL COLLEGE OF EDUCATION, IFO, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5730,
+    "INABV": "JIBWIS-GUMAU",
+    "INName": "JIBWIS COLLEGE OF EDUCATION, GUMAU, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": 5,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5731,
+    "INABV": "GRAND-PLUS",
+    "INName": "GRAND-PLUS COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5732,
+    "INABV": "PREMIER-COE",
+    "INName": "PREMIER COLLEGE OF EDUCATION, EGBEDORE, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5733,
+    "INABV": "DOVIANA-COE",
+    "INName": "DOVIANA COLLEGE OF EDUCATION, GBOKO, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5734,
+    "INABV": "CCONOH-COE",
+    "INName": "CHRISTIAN CHUKWUMA ONOH COLLEGE OF EDUCATION, ENUGU, ENUGU STATE",
+    "InSt": 14,
+    "AFFL_ST_ID": 14,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5735,
+    "INABV": "AL-MADINAH",
+    "INName": "AL-MADINAH COLLEGE OF EDUCATION, OSOGBO, OSUN STATE",
+    "InSt": 29,
+    "AFFL_ST_ID": 29,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5736,
+    "INABV": "AMCOE-WASE",
+    "INName": "ABDULLAHI MAIKANO COLLEGE OF EDUCATION, WASE, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5737,
+    "INABV": "AJETUNMOBI-COE",
+    "INName": "AJETUNMOBI COLLEGE OF EDUCATION, IRA , KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5738,
+    "INABV": "ADIGRACE-COE",
+    "INName": "ADIGRACE COLLEGE OF EDUCATION, BYEPYI, WUKARI, TARABA STATE",
+    "InSt": 34,
+    "AFFL_ST_ID": 34,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5739,
+    "INABV": "AL-MUSTAFA-COE",
+    "INName": "AL-MUSTAFA COLLEGE OF EDUCATION, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 53,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5740,
+    "INABV": "OWU-COE",
+    "INName": "OWU COLLEGE OF EDUCATION, WASIMI, EWEKORO, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 53,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5742,
+    "INABV": "WATERSIDE-COE",
+    "INName": "WATERSIDE COLLEGE OF EDUCATION, ABIGI, OGUN STATE",
+    "InSt": 27,
+    "AFFL_ST_ID": 27,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5743,
+    "INABV": "CRESCENT-COE",
+    "INName": "CRESCENT PEARLS TECHNICAL COLLEGE OF EDUCATION, ABUJA",
+    "InSt": 37,
+    "AFFL_ST_ID": "",
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5744,
+    "INABV": "ECWA-BAYARA",
+    "INName": "ECWA COLLEGE OF EDUCATION, BAYARA, BAUCHI STATE",
+    "InSt": 5,
+    "AFFL_ST_ID": "",
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5745,
+    "INABV": "AAI-COE",
+    "INName": "ARCHIBISHOP ALEXANDER IBEZIM COLLEGE OF EDUCATION, NIBO NISE, ANAMBRA STATE",
+    "InSt": 4,
+    "AFFL_ST_ID": 4,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5746,
+    "INABV": "TAMIC-COE",
+    "INName": "TAMIC COLLEGE OF EDUCATION, IJAIYE, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5747,
+    "INABV": "OSECOE",
+    "INName": "OSAN EKITI COLLEGE OF EDUCATION, OSAN EKITI, EKITI STATE",
+    "InSt": 13,
+    "AFFL_ST_ID": 13,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5748,
+    "INABV": "TOP-SPROUT",
+    "INName": "TOP SPROUT COLLEGE OF EDUCATION, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5749,
+    "INABV": "KWAINE-COE",
+    "INName": "KWAINE COLLEGE OF EDUCATION, BOLARI, GOMBE STATE",
+    "InSt": 15,
+    "AFFL_ST_ID": 15,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5750,
+    "INABV": "IKEDURU",
+    "INName": "IKEDURU COLLEGE OF EDUCATION, ATTA, IMO STATE",
+    "InSt": 16,
+    "AFFL_ST_ID": 16,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5751,
+    "INABV": "CCOE-KANO",
+    "INName": "COMMUNITY COLLEGE OF EDUCATION, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5752,
+    "INABV": "PANAFRICA-COE",
+    "INName": "PAN AFRICA ENTREPRENEURSHIP AND VOCATIONAL COLLEGE OF EDUCATION, BADAGRY, LAGOS STATE",
+    "InSt": 24,
+    "AFFL_ST_ID": 24,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5753,
+    "INABV": "SHARIFAT-COE",
+    "INName": "SHARIFAT COLLEGE OF EDUCATION AND ISLAMIC LEGAL STUDIES, ILORIN, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 23,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5754,
+    "INABV": "COASTLINE-COE",
+    "INName": "COASTLINE COLLEGE OF EDUCATION, IDEPE, OKITIPUPA, ONDO STATE",
+    "InSt": 28,
+    "AFFL_ST_ID": 28,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5755,
+    "INABV": "AL-IMAN-COE",
+    "INName": "AL-IMAN COLLEGE OF EDUCATION, JOS NORTH, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5756,
+    "INABV": "LAKEVIEW-COE",
+    "INName": "LAKEVIEW COLLEGE OF EDUCATION, JALINGO, TARABA STATE",
+    "InSt": 34,
+    "AFFL_ST_ID": 34,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5757,
+    "INABV": "COE-LANGTANG",
+    "INName": "INTERNATIONAL COLLEGE OF EDUCATION, LANGTANG, PLATEAU STATE",
+    "InSt": 31,
+    "AFFL_ST_ID": 31,
+    "INTYP": 57,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5759,
+    "INABV": "PRISTINE",
+    "INName": "PRISTINE INSTITUTE OF EDUCATION AND TECHNOLOGY, UMUODA NGURU, ABOH MBAISE, IMO STATE",
+    "InSt": 16,
+    "AFFL_ST_ID": 16,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5760,
+    "INABV": "EAGLE",
+    "INName": "EAGLE MOUNTAIN COLLEGE OF EDUCATION, ABO MBASIE, IMO STATE",
+    "InSt": 16,
+    "AFFL_ST_ID": 16,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5761,
+    "INABV": "FCET-YAURI",
+    "INName": "FEDERAL COLLEGE OF EDUCATION (TECHNICAL), YAURI, KEBBI STATE",
+    "InSt": 21,
+    "AFFL_ST_ID": 21,
+    "INTYP": 51,
+    "Inst_Cat": "FC"
+  },
+  {
+    "INID": 5762,
+    "INABV": "EDEXCEL",
+    "INName": "EDEXCEL COLLEGE OF EDUCATION, EBENTA-OJU, BENUE STATE",
+    "InSt": 7,
+    "AFFL_ST_ID": 7,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5763,
+    "INABV": "S-LIGHT-COE",
+    "INName": "S-LIGHT COLLEGE OF EDUCATION, GADON GAYA, KANO, KANO STATE",
+    "InSt": 19,
+    "AFFL_ST_ID": 19,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  },
+  {
+    "INID": 5766,
+    "INABV": "TALENT-COE",
+    "INName": "TALENT FINDERS COLLEGE OF EDUCATION, ILALA, KWARA STATE",
+    "InSt": 23,
+    "AFFL_ST_ID": 26,
+    "INTYP": 53,
+    "Inst_Cat": "PC"
+  }
+]
