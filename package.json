@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "copy-build": "cpx \"dist/**/*\" ../backend/dist/build"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
