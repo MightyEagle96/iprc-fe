@@ -4,12 +4,14 @@ import RegistrationPage from "../pages/RegistrationPage";
 import RegistrationSuccessful from "../pages/RegistrationSuccessful";
 import RegistrationDashboard from "../pages/RegistrationDashboard";
 import NotFoundpage from "../pages/NotFoundpage";
+import ApprovalPage from "../pages/ApprovalPage";
 
 function MainRoutes() {
   const routes = [
     { path: "/", component: <RegistrationPage /> },
     { path: "/registrationinfo", component: <RegistrationSuccessful /> },
     { path: "/dashboard", component: <RegistrationDashboard /> },
+    { path: "/approval", component: <ApprovalPage /> },
     { path: "*", component: <NotFoundpage /> },
   ];
   return (

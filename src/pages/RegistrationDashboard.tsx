@@ -6,10 +6,14 @@ import {
   Clock,
   CheckCircle2,
   XCircle,
+  RefreshCcw,
 } from "lucide-react";
 import { socket } from "../socket";
 import { httpService } from "../httpService";
 import { useEffect, useState } from "react";
+
+import { DataGrid } from "@mui/x-data-grid";
+import { Button } from "@mui/material";
 
 type IDashboard = {
   total: number;
@@ -20,6 +24,25 @@ type IDashboard = {
   approved: number;
   rejected: number;
 };
+
+const statusStyles = {
+  pending: {
+    bg: "bg-yellow-50",
+    text: "text-yellow-600",
+    dot: "bg-yellow-500",
+  },
+  approved: {
+    bg: "bg-emerald-50",
+    text: "text-emerald-600",
+    dot: "bg-emerald-500",
+  },
+  rejected: {
+    bg: "bg-red-50",
+    text: "text-red-600",
+    dot: "bg-red-500",
+  },
+};
+
 function RegistrationDashboard() {
   const [dashboardData, setDashboardData] = useState<IDashboard>({
     total: 0,
@@ -31,6 +54,13 @@ function RegistrationDashboard() {
     rejected: 0,
   });
   const [connected, setConnected] = useState(false);
+  const [participants, setParticipants] = useState([]);
+  const [total, setTotal] = useState(0);
+
+  const [paginationModel, setPaginationModel] = useState({
+    page: 0,
+    pageSize: 50,
+  });
 
   const isOffline = !connected;
 
@@ -96,11 +126,29 @@ function RegistrationDashboard() {
       // toastError
     }
   };
+
+  const getParticipants = async () => {
+    try {
+      const response = await httpService.get("participants", {
+        params: {
+          page: paginationModel.page + 1,
+          limit: paginationModel.pageSize,
+        },
+      });
+
+      console.log(response.data);
+      setParticipants(response.data.participants);
+      setTotal(response.data.total);
+    } catch (error) {
+      // toastError
+    }
+  };
   useEffect(() => {
     const onConnect = async () => {
       console.log("connected", socket.id);
       setConnected(true);
       await getData();
+      await getParticipants();
     };
 
     const onDisconnect = () => {
@@ -123,6 +171,50 @@ function RegistrationDashboard() {
       socket.off("reconnect", onConnect);
     };
   }, []);
+
+  const columns = [
+    { field: "id", headerName: "ID", width: 100 },
+    {
+      field: "firstName",
+      headerName: "First Name",
+      width: 300,
+      renderCell: (param: any) => (
+        <span className="capitalize">{param.row?.firstName}</span>
+      ),
+    },
+    {
+      field: "lastName",
+      headerName: "Last Name",
+      width: 300,
+      renderCell: (param: any) => (
+        <span className="capitalize">{param.row?.lastName}</span>
+      ),
+    },
+    {
+      field: "INName",
+      headerName: "Institution",
+      width: 500,
+      renderCell: (param: any) => (
+        <span className="capitalize">{param.row?.INName}</span>
+      ),
+    },
+    {
+      field: "ST_NAME",
+      headerName: "State",
+      width: 200,
+      renderCell: (param: any) => (
+        <span className="capitalize">{param.row?.ST_NAME}</span>
+      ),
+    },
+
+    {
+      field: "status",
+      headerName: "Status",
+      width: 180,
+      renderCell: (params: any) => <StatusBadge status={params.row?.status} />,
+    },
+  ];
+
   return (
     <div className="min-h-screen p-4 md:p-6 lg:p-8">
       <div className="mb-8">
@@ -173,8 +265,51 @@ function RegistrationDashboard() {
           })}
         </div>
       </section>
+      <section className="w-full mt-30">
+        <div className="text-end">
+          <Button onClick={getParticipants} endIcon={<RefreshCcw />}>
+            Refresh
+          </Button>
+        </div>
+        <DataGrid
+          rows={participants}
+          pageSizeOptions={[10, 20, 50]}
+          onPaginationModelChange={setPaginationModel}
+          paginationMode="server"
+          rowCount={total}
+          columns={columns}
+          //checkboxSelection
+          className="!border-none !text-slate-700"
+          sx={{
+            "& .MuiDataGrid-columnHeaders": {
+              backgroundColor: "#f8fafc",
+              fontWeight: "bold",
+            },
+            "& .MuiDataGrid-cell": {
+              borderColor: "#f1f5f9",
+            },
+          }}
+        />
+      </section>
     </div>
   );
 }
 
 export default RegistrationDashboard;
+
+export const StatusBadge = ({
+  status,
+}: {
+  status: keyof typeof statusStyles;
+}) => {
+  const style = statusStyles[status] || statusStyles.pending;
+
+  return (
+    <span
+      className={`inline-flex items-center gap-2 rounded-full px-3 py-1 text-xs font-semibold ${style.bg} ${style.text}`}
+    >
+      <span className={`h-2 w-2 rounded-full ${style.dot}`} />
+      {status}
+    </span>
+  );
+};
