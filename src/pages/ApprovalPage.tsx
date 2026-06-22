@@ -21,6 +21,9 @@ import {
   DialogActions,
 } from "@mui/material";
 
+import { toastError } from "../components/ErrorToast";
+import { toast } from "react-toastify";
+
 type status = "pending" | "approved" | "rejected";
 
 type IDashboard = {
@@ -34,6 +37,7 @@ type IDashboard = {
 };
 
 export interface IParticipant {
+  _id: string;
   firstName: string;
   lastName: string;
   middleName: string;
@@ -70,6 +74,9 @@ function ApprovalPage() {
   const [participants, setParticipants] = useState([]);
   const [total, setTotal] = useState(0);
   const [participant, setParticipant] = useState<IParticipant | null>(null);
+  const [confirmAction, setConfirmAction] = useState<
+    "approved" | "rejected" | null
+  >(null);
 
   const [paginationModel, setPaginationModel] = useState({
     page: 0,
@@ -168,6 +175,23 @@ function ApprovalPage() {
     };
   }, []);
 
+  const submitAction = async () => {
+    try {
+      const { data } = await httpService.post("action", {
+        _id: participant?._id,
+        status: confirmAction,
+      });
+      await Promise.all([getData(), getParticipants()]);
+
+      toast.success(data);
+
+      setParticipant(null);
+      setConfirmAction(null);
+    } catch (error) {
+      toastError(error);
+    }
+  };
+
   const columns = [
     { field: "id", headerName: "ID", width: 100 },
     {
@@ -215,7 +239,6 @@ function ApprovalPage() {
       ),
     },
   ];
-
   return (
     <div>
       <div className="min-h-screen p-4 md:p-6 lg:p-8">
@@ -355,9 +378,9 @@ function ApprovalPage() {
           <div className="flex gap-3 pt-2">
             <Button
               variant="contained"
-              color="success"
               fullWidth
-              className="!rounded-xl !py-2 !font-semibold"
+              className="!bg-emerald-500 hover:!bg-emerald-600 !text-white !rounded-xl !py-2"
+              onClick={() => setConfirmAction("approved")}
             >
               Approve
             </Button>
@@ -366,7 +389,8 @@ function ApprovalPage() {
               variant="contained"
               color="error"
               fullWidth
-              className="!rounded-xl !py-2 !font-semibold"
+              className="!bg-rose-500 hover:!bg-rose-600 !text-white !rounded-xl !py-2"
+              onClick={() => setConfirmAction("rejected")}
             >
               Reject
             </Button>
@@ -380,6 +404,31 @@ function ApprovalPage() {
             className="text-slate-600"
           >
             Close
+          </Button>
+        </DialogActions>
+      </Dialog>
+
+      <Dialog
+        open={confirmAction !== null}
+        onClose={() => setConfirmAction(null)}
+        maxWidth="xs"
+        fullWidth
+      >
+        <DialogTitle>Confirm Action</DialogTitle>
+
+        <DialogContent>
+          <Typography>
+            Are you sure you want to{" "}
+            {confirmAction === "approved" ? "approve" : "reject"} this
+            participant?
+          </Typography>
+        </DialogContent>
+
+        <DialogActions>
+          <Button onClick={() => setConfirmAction(null)}>Cancel</Button>
+
+          <Button variant="contained" onClick={() => submitAction()}>
+            Confirm
           </Button>
         </DialogActions>
       </Dialog>
