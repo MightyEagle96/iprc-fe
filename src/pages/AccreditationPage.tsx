@@ -4,7 +4,6 @@ import { httpService } from "../httpService";
 import { useEffect, useState } from "react";
 
 import { DataGrid } from "@mui/x-data-grid";
-import { Button } from "@mui/material";
 
 type IDashboard = {
   total: number;
@@ -104,7 +103,7 @@ function AccreditationPage() {
       console.log(response.data);
       setDashboardData(response.data);
     } catch (error) {
-      // toastError
+      toastError(error);
     }
   };
 
