@@ -25,7 +25,7 @@ interface Attendee {
   timeAccredited?: string;
 }
 
-import { StatusBadge } from "./RegistrationDashboard";
+// import { StatusBadge } from "./RegistrationDashboard";
 import { toast } from "react-toastify";
 import { toastError } from "../components/ErrorToast";
 
@@ -48,23 +48,23 @@ function AccreditationPage() {
 
   const isOffline = !connected;
 
-  const statusStyles = {
-    pending: {
-      bg: "bg-yellow-50",
-      text: "text-yellow-600",
-      dot: "bg-yellow-500",
-    },
-    approved: {
-      bg: "bg-emerald-50",
-      text: "text-emerald-600",
-      dot: "bg-emerald-500",
-    },
-    rejected: {
-      bg: "bg-red-50",
-      text: "text-red-600",
-      dot: "bg-red-500",
-    },
-  };
+  // const statusStyles = {
+  //   pending: {
+  //     bg: "bg-yellow-50",
+  //     text: "text-yellow-600",
+  //     dot: "bg-yellow-500",
+  //   },
+  //   approved: {
+  //     bg: "bg-emerald-50",
+  //     text: "text-emerald-600",
+  //     dot: "bg-emerald-500",
+  //   },
+  //   rejected: {
+  //     bg: "bg-red-50",
+  //     text: "text-red-600",
+  //     dot: "bg-red-500",
+  //   },
+  // };
 
   const stats = [
     {
