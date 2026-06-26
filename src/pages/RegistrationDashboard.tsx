@@ -136,7 +136,6 @@ function RegistrationDashboard() {
         },
       });
 
-      console.log(response.data);
       setParticipants(response.data.participants);
       setTotal(response.data.total);
     } catch (error) {

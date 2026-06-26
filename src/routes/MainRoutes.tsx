@@ -5,6 +5,7 @@ import RegistrationSuccessful from "../pages/RegistrationSuccessful";
 import RegistrationDashboard from "../pages/RegistrationDashboard";
 import NotFoundpage from "../pages/NotFoundpage";
 import ApprovalPage from "../pages/ApprovalPage";
+import AccreditationPage from "../pages/AccreditationPage";
 
 function MainRoutes() {
   const routes = [
@@ -12,6 +13,7 @@ function MainRoutes() {
     { path: "/registrationinfo", component: <RegistrationSuccessful /> },
     { path: "/dashboard", component: <RegistrationDashboard /> },
     { path: "/approval", component: <ApprovalPage /> },
+    { path: "/accreditation", component: <AccreditationPage /> },
     { path: "*", component: <NotFoundpage /> },
   ];
   return (
