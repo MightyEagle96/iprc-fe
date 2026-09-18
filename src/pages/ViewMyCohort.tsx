@@ -1,4 +1,4 @@
-import { FormEvent, useState } from "react";
+import { useState } from "react";
 import { httpService } from "../httpService";
 import { toast } from "react-toastify";
 
@@ -22,7 +22,7 @@ function ViewMyCohort() {
   const [loading, setLoading] = useState(false);
   const [cohort, setCohort] = useState<CohortResponse["data"]>();
 
-  const handleSubmit = async (e: FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
     if (!identifier.trim()) {

@@ -1,4 +1,4 @@
-import React, { FormEvent, useState } from "react";
+import React, { useState } from "react";
 import { httpService } from "../httpService";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
@@ -97,7 +97,7 @@ function ImpactRegistration() {
   /**
    * Validate form and open preview
    */
-  const handleReview = (e: FormEvent) => {
+  const handleReview = (e: React.FormEvent) => {
     e.preventDefault();
 
     if (
