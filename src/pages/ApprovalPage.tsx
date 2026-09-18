@@ -138,7 +138,6 @@ function ApprovalPage() {
         },
       });
 
-      console.log(response.data);
       setParticipants(response.data.participants);
       setTotal(response.data.total);
     } catch (error) {
@@ -147,6 +146,7 @@ function ApprovalPage() {
     setLoading(false);
   };
   useEffect(() => {
+    getParticipants();
     const onConnect = async () => {
       console.log("connected", socket.id);
       setConnected(true);
@@ -173,7 +173,7 @@ function ApprovalPage() {
       socket.off("disconnect", onDisconnect);
       socket.off("reconnect", onConnect);
     };
-  }, []);
+  }, [paginationModel]);
 
   const submitAction = async () => {
     try {
@@ -302,6 +302,7 @@ function ApprovalPage() {
             pageSizeOptions={[10, 20, 50]}
             onPaginationModelChange={setPaginationModel}
             paginationMode="server"
+            paginationModel={paginationModel}
             rowCount={total}
             columns={columns}
             //checkboxSelection

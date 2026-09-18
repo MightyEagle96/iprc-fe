@@ -47,24 +47,6 @@ function AccreditationPage() {
 
   const isOffline = !connected;
 
-  // const statusStyles = {
-  //   pending: {
-  //     bg: "bg-yellow-50",
-  //     text: "text-yellow-600",
-  //     dot: "bg-yellow-500",
-  //   },
-  //   approved: {
-  //     bg: "bg-emerald-50",
-  //     text: "text-emerald-600",
-  //     dot: "bg-emerald-500",
-  //   },
-  //   rejected: {
-  //     bg: "bg-red-50",
-  //     text: "text-red-600",
-  //     dot: "bg-red-500",
-  //   },
-  // };
-
   const stats = [
     {
       title: "Total Registered",
@@ -92,7 +74,7 @@ function AccreditationPage() {
       title: "Accredited",
       value: dashboardData?.accredited || 0,
       icon: Verified,
-      bg: "bg-pink-50",
+      bg: "bg-teal-50",
       text: "text-teal-600",
     },
   ];
@@ -100,7 +82,7 @@ function AccreditationPage() {
   const getData = async () => {
     try {
       const response = await httpService.get("attendancedashboard");
-      console.log(response.data);
+
       setDashboardData(response.data);
     } catch (error) {
       toastError(error);
@@ -124,7 +106,7 @@ function AccreditationPage() {
   };
 
   useEffect(() => {
-    //getData();
+    getAccreditedParticipants();
     const onConnect = async () => {
       console.log("connected", socket.id);
       setConnected(true);
@@ -146,7 +128,7 @@ function AccreditationPage() {
       socket.off("disconnect", onDisconnect);
       socket.off("reconnect", onConnect);
     };
-  }, []);
+  }, [paginationModel]);
 
   const columns = [
     { field: "id", headerName: "ID", width: 100 },
@@ -197,7 +179,7 @@ function AccreditationPage() {
       width: 150,
       renderCell: (param: any) => (
         <span className="capitalize">
-          {new Date(param.row?.timeAccredited).toTimeString()}
+          {new Date(param.row?.timeAccredited).toLocaleTimeString()}
         </span>
       ),
       //renderCell: (params: any) => <StatusBadge status={params.row?.status} />,
@@ -418,10 +400,11 @@ function AccreditationPage() {
       <DataGrid
         rows={participants}
         pageSizeOptions={[10, 20, 50]}
-        onPaginationModelChange={setPaginationModel}
-        paginationMode="server"
         rowCount={total}
         columns={columns}
+        paginationMode="server"
+        paginationModel={paginationModel}
+        onPaginationModelChange={setPaginationModel}
         //checkboxSelection
         className="!border-none !text-slate-700"
         sx={{
