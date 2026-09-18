@@ -143,6 +143,17 @@ function ImpactDashboard() {
     fetchParticipants();
   }, [page, search, classFilter, ageFilter]);
 
+  useEffect(() => {
+    const interval = setInterval(() => {
+      fetchStats();
+      fetchParticipants();
+    }, 30_000);
+
+    return () => {
+      clearInterval(interval);
+    };
+  }, [page, search, classFilter, ageFilter]);
+
   // ---------------------------------------------------------
   // Helpers
   // ---------------------------------------------------------
