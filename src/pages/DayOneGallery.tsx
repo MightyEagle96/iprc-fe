@@ -1,5 +1,3 @@
-import React from "react";
-
 const DRIVE_FOLDER =
   "https://drive.google.com/drive/folders/1qq10VDnYaSiYwy924J5OG3QvaKkYWl17";
 
