@@ -147,7 +147,7 @@ function ImpactDashboard() {
     const interval = setInterval(() => {
       fetchStats();
       fetchParticipants();
-    }, 30_000);
+    }, 60_000);
 
     return () => {
       clearInterval(interval);

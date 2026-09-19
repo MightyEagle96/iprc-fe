@@ -7,6 +7,7 @@ import ImpactEvents from "../pages/EventsSection";
 import Navbar from "../components/NavigationBar";
 import ViewMyCohort from "../pages/ViewMyCohort";
 import ImpactDashboard from "../pages/ImpactDashboard";
+import DayOneGallery from "../pages/DayOneGallery";
 
 function MainRoutes() {
   const routes = [
@@ -15,6 +16,7 @@ function MainRoutes() {
     { path: "/register", component: <ImpactRegistration /> },
     { path: "/cohort", component: <ViewMyCohort /> },
     { path: "/dashboard", component: <ImpactDashboard /> },
+    { path: "/gallery", component: <DayOneGallery /> },
 
     { path: "*", component: <NotFoundpage /> },
   ];

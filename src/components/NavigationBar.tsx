@@ -21,6 +21,10 @@ function Navbar() {
       label: "View My Cohort",
       path: "/cohort",
     },
+    {
+      label: "Gallery",
+      path: "/gallery",
+    },
   ];
 
   return (
