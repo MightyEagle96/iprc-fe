@@ -25,6 +25,10 @@ function Navbar() {
       label: "Gallery",
       path: "/gallery",
     },
+    {
+      label: "Panel",
+      path: "/panel",
+    },
   ];
 
   return (

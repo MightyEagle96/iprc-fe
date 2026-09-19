@@ -8,6 +8,7 @@ import Navbar from "../components/NavigationBar";
 import ViewMyCohort from "../pages/ViewMyCohort";
 import ImpactDashboard from "../pages/ImpactDashboard";
 import DayOneGallery from "../pages/DayOneGallery";
+import PanelDiscussion from "../pages/PanelDiscussion";
 
 function MainRoutes() {
   const routes = [
@@ -18,6 +19,7 @@ function MainRoutes() {
     { path: "/dashboard", component: <ImpactDashboard /> },
     { path: "/gallery", component: <DayOneGallery /> },
 
+    { path: "/panel", component: <PanelDiscussion /> },
     { path: "*", component: <NotFoundpage /> },
   ];
   return (
